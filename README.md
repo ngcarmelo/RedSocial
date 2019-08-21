@@ -1,3 +1,2 @@
-# SocialNetwork
 # RedSocial
-# SocialNetworkApp
+
